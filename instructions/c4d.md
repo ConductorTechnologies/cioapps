@@ -1,12 +1,15 @@
-Congratulations! You're set to start submitting renders to Conductor from within Maya. Open Maya and load the Conductor plugin from the Plugin Manager. You should see a new menu called "Conductor" in the main menu bar. From there you can configure a submission.
+Almost there! You just need to tell Cinema4d where to find the Conductor plugin.
+
+* Open Cinema4d and go to Edit->Preferences->Plugins.
+* In the Search Paths panel click Add Folder, and browse to {{installPath}}.
+* Restart Cinema4d and you should see a Conductor menu in the menu bar.
 
 ### Shared installation
 
-If you'd like to make the plugin accessible to others on your network, use one of the methods below:
-1. Share the conductor.mod file with colleagues so they can add it to their Maya environment. You'll find it in your Maya prefs/modules folder.
-2. Point the MAYA_MODULE_PATH environment variable to the Conductor install location as shown below.
+If you'd like to make the plugin accessible to others on your network, without the need for them to install again, you can set Cinema4d's g_additionalModulePath environment variable. See below.
+
 
 ```bash
-# Add the Conductor module install location to the MAYA_MODULE_PATH.
-export MAYA_MODULE_PATH=${installPath}:$MAYA_MODULE_PATH
+# # Add the Conductor plugin location to Cinema4d's g_additionalModulePath.
+export g_additionalModulePath={{installPath}}:$g_additionalModulePath
 ```

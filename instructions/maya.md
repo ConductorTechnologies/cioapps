@@ -8,5 +8,5 @@ If you'd like to make the plugin accessible to others on your network, use one o
 
 ```bash
 # Add the Conductor module install location to the MAYA_MODULE_PATH.
-export MAYA_MODULE_PATH=${installPath}:$MAYA_MODULE_PATH
+export MAYA_MODULE_PATH={{installPath}}:$MAYA_MODULE_PATH
 ```
