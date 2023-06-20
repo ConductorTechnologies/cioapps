@@ -4,9 +4,9 @@
 
 A repository containing resources to configure Plugins hosted in the Companion app.
 
-### `index.json`
+### Index file
 
-This file contains a list of metadata objects representing the apps that are available to be installed from the Companion app. Each entry describes the app's name, description, registry source and so on.
+The file `index.json` contains a list of metadata objects representing the apps that are available to be installed from the Companion app. Each entry describes the app's name, description, registry source and so on.
 
 ### Descriptions folder
 
