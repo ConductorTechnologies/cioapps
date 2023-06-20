@@ -1,0 +1,1 @@
+A ROP to submit work from Houdini to Conductor's cloud. Compatible with Python3 versions of Houdini for all platforms. Available to beta customers. Contact us!

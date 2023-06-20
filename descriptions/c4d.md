@@ -1,0 +1,1 @@
+A plugin to submit render jobs to Conductor from Cinema 4D. Tested on versions R21 to R24, Mac and Windows.

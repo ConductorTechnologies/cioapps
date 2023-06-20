@@ -1,0 +1,1 @@
+A CEP extension to submit compositions to Conductor from Adobe After Effects. Works with version 2020 and above on Windows.
