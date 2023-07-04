@@ -61,7 +61,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
-    "visible": true,
+    "visible": false,
     "instructions": "Loading ..."
   },
   "max": {
