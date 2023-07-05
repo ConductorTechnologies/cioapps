@@ -21,7 +21,7 @@
     "available": "pip",
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
-    "versions": ["6.2.0b2"],
+    "versions": ["6.2.0b2", "6.3.0b5"],
     "visible": true,
     "instructions": "Loading ..."
   },
