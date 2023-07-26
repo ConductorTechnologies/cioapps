@@ -1,0 +1,1 @@
+Katana plugin node to manage submissions to Conductor's cloud service. Supports Katana versions from 5.0v1 and above.
