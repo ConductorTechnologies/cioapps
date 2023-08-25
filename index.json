@@ -51,19 +51,6 @@
     "visible": true,
     "instructions": "Loading ..."
   },
-  "clarisse": {
-    "order": 3,
-    "title": "Conductor for Clarisse",
-    "packageName": "cioclarisse",
-    "name": "clarisse",
-    "description": "Loading ...",
-    "available": "pip",
-    "installed": false,
-    "platforms": ["win32", "linux", "darwin"],
-    "versions": [],
-    "visible": false,
-    "instructions": "Loading ..."
-  },
   "max": {
     "order": 7,
     "title": "Conductor for 3ds Max",
