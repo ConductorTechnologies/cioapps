@@ -115,5 +115,18 @@
     "versions": [],
     "visible": true,
     "instructions": "Loading ..."
+  },
+  "blender": {
+    "order": 3,
+    "title": "Conductor for Blender",
+    "packageName": "cioblender",
+    "name": "blender",
+    "description": "Loading ...",
+    "available": "pip",
+    "installed": false,
+    "platforms": ["win32", "linux", "darwin"],
+    "versions": [],
+    "visible": true,
+    "instructions": "Loading ..."
   }
 }
