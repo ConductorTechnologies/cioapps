@@ -117,7 +117,7 @@
     "instructions": "Loading ..."
   },
   "blender": {
-    "order": 11,
+    "order": 3,
     "title": "Conductor for Blender",
     "packageName": "cioblender",
     "name": "blender",
