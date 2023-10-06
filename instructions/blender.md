@@ -1,7 +1,15 @@
 Almost there! You just need to tell Blender where to find the Conductor plugin.
 
-* Open Blender and go to Edit->Preferences->Add-ons.
-* Click Install, and browse to {{installPath}}/conductor_submitter_plugin.py.
-* Click "Install Add-on", then enable the Add-on "Conductor Render Submitter".
-* Click on the "Rendering" workspace, and you should see the "Conductor Render Submitter" panel.
-* On the "Conductor Render Submitter" panel, click on "Connect".
+* Launch Blender and navigate to Edit->Preferences->Add-ons.
+* In case you can't locate the "Render: Conductor Render Submitter" Add-on, simply click the "Refresh" button.
+* Proceed to enable the "Render: Conductor Render Submitter" Add-on.
+* Switch over to the "Rendering" workspace, where you'll find the "Conductor Render Submitter" panel.
+* Finally, within the "Conductor Render Submitter" panel, click on "Connect."
+
+As an alternative method:
+
+* Launch Blender and navigate to Edit->Preferences->Add-ons.
+* Click on the "Install" button, then browse to {{installPath}}/conductor_submitter_plugin.py.
+* After selecting the file, hit "Install Add-on" and make sure to enable the "Render: Conductor Render Submitter" Add-on.
+* Switch over to the "Rendering" workspace, where you'll find the "Conductor Render Submitter" panel.
+* Finally, within the "Conductor Render Submitter" panel, click on "Connect."
