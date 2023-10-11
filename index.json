@@ -9,6 +9,7 @@
     "installed": false,
     "platforms": ["win32"],
     "versions": [],
+    "beta": [5669544198668288],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -22,6 +23,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
+    "beta": [5669544198668288],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -35,6 +37,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
+    "beta": [5669544198668288],
     "visible": false,
     "instructions": "Loading ..."
   },
@@ -48,6 +51,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
+    "beta": [5669544198668288],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -74,6 +78,7 @@
     "installed": false,
     "platforms": ["win32", "darwin"],
     "versions": [],
+    "beta": [5669544198668288],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -87,6 +92,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
+    "beta": [5669544198668288],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -100,6 +106,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
+    "beta": [5669544198668288],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -113,6 +120,7 @@
     "installed": false,
     "platforms": ["win32", "linux"],
     "versions": [],
+    "beta": [5669544198668288],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -126,6 +134,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
+    "beta": [5669544198668288],
     "visible": true,
     "instructions": "Loading ..."
   }
