@@ -1,1 +1,1 @@
-Use the command-line uploader and downloader or develop your own tools using the Python API.
+Command-line tools and API. Conductor Core is pre-installed with the Companion. If you want to use it in your own tools you'll find it [here](https://pypi.org/project/ciocore/)
