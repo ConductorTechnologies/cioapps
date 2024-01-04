@@ -19,7 +19,7 @@
     "packageName": "ciocore",
     "name": "core",
     "description": "Loading ...",
-    "available": "pip",
+    "available": false,
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
