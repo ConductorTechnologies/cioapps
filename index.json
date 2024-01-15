@@ -27,20 +27,6 @@
     "visible": true,
     "instructions": "Loading ..."
   },
-  "skit": {
-    "order": -1,
-    "title": "Conductor Core",
-    "packageName": "ciocore",
-    "name": "skit",
-    "description": "Loading ...",
-    "available": "pip",
-    "installed": false,
-    "platforms": ["win32", "linux", "darwin"],
-    "versions": [],
-    "betaAccounts": [5669544198668288],
-    "visible": false,
-    "instructions": "Loading ..."
-  },
   "maya": {
     "order": 1,
     "title": "Conductor for Maya",
