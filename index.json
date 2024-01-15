@@ -19,7 +19,7 @@
     "packageName": "ciocore",
     "name": "core",
     "description": "Loading ...",
-    "available": false,
+    "available": pip,
     "installed": false,
     "platforms": [],
     "versions": [],
