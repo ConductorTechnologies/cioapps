@@ -1,1 +1,1 @@
-Use the command-line uploader and downloader or develop your own tools using the Python API.
+Conductor's command-line tools and Python API. Conductor Core is now embedded within the Companion app so you don't need to install it separately. Type `conductor --help` to see the available commands. If you would like to use the Python API, you can install the `ciocore` package from PyPI.
