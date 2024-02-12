@@ -1,1 +1,1 @@
-Conductor's command-line tools and Python API. Conductor Core is now embedded within the Companion app so you don't need to install it separately. Type `conductor --help` to see the available commands. If you would like to use the Python API, you can install the `ciocore` package from PyPI.
+Conductor Core is installed as part of the Companion app. Type `conductor --help` to see available commands. If you would like to use the Conductor Python API, install the `ciocore` package from PyPI. Use the Info button on this card.
