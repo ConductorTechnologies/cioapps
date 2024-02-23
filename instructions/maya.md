@@ -2,9 +2,7 @@ Congratulations! You're set to start submitting renders to Conductor from within
 
 ### Shared installation
 
-If you'd like to make the plugin accessible to others on your network, use one of the methods below:
-1. Share the conductor.mod file with colleagues so they can add it to their Maya environment. You'll find it in your Maya prefs/modules folder.
-2. Point the MAYA_MODULE_PATH environment variable to the Conductor install location as shown below.
+If you'd like to make the plugin accessible to others on your network, set the MAYA_MODULE_PATH environment variable to the install location. The example below is for Mac/Linux. For Windows, please use the **Edit Environment Variables** panel.
 
 ```bash
 # Add the Conductor module install location to the MAYA_MODULE_PATH.
