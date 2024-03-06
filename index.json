@@ -51,6 +51,7 @@
     "installed": false,
     "platforms": ["win32"],
     "versions": [],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -106,7 +107,7 @@
     "installed": false,
     "platforms": ["win32", "linux"],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
