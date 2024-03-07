@@ -11,10 +11,7 @@
       "win32"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5676293873991680",
-      "5669544198668288"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -28,9 +25,7 @@
     "installed": false,
     "platforms": [],
     "versions": [],
-    "betaAccounts": [
-      "5676293873991680"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -48,9 +43,7 @@
       "darwin"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5676293873991680"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -66,9 +59,7 @@
       "win32"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5676293873991680"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -85,9 +76,7 @@
       "darwin"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5676293873991680"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -105,9 +94,7 @@
       "darwin"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5676293873991680"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -125,9 +112,7 @@
       "darwin"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5676293873991680"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -144,9 +129,7 @@
       "linux"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5676293873991680"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -164,9 +147,7 @@
       "darwin"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5676293873991680"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -182,10 +163,7 @@
       "win32"
     ],
     "versions": [],
-    "betaAccounts": [
-      5669544198668288,
-      "5676293873991680"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   }
