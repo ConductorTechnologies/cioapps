@@ -1,1 +1,192 @@
-{"aftereffects":{"order":4,"title":"Conductor for After Effects","packageName":"cioae","name":"aftereffects","description":"Loading ...","available":"github","installed":false,"platforms":["win32"],"versions":[],"betaAccounts":["5676293873991680"],"visible":true,"instructions":"Loading ..."},"core":{"order":8,"title":"Conductor Core","packageName":"ciocore","name":"core","description":"Loading ...","available":"pip","installed":false,"platforms":[],"versions":[],"betaAccounts":["5676293873991680"],"visible":true,"instructions":"Loading ..."},"maya":{"order":1,"title":"Conductor for Maya","packageName":"ciomaya","name":"maya","description":"Loading ...","available":"pip","installed":false,"platforms":["win32","linux","darwin"],"versions":[],"betaAccounts":["5676293873991680"],"visible":true,"instructions":"Loading ..."},"max":{"order":7,"title":"Conductor for 3ds Max","packageName":"ciomax","name":"max","description":"Loading ...","available":"pip","installed":false,"platforms":["win32"],"versions":[],"betaAccounts":["5676293873991680"],"visible":true,"instructions":"Loading ..."},"c4d":{"order":2,"title":"Conductor for Cinema 4D","packageName":"cioc4d","name":"c4d","description":"Loading ...","available":"pip","installed":false,"platforms":["win32","darwin"],"versions":[],"betaAccounts":["5676293873991680"],"visible":true,"instructions":"Loading ..."},"houdini":{"order":9,"title":"Conductor for Houdini","packageName":"ciohoudini","name":"houdini","description":"Loading ...","available":"pip","installed":false,"platforms":["win32","linux","darwin"],"versions":[],"betaAccounts":["5676293873991680"],"visible":true,"instructions":"Loading ..."},"nuke":{"order":5,"title":"Conductor for Nuke","packageName":"cionuke","name":"nuke","description":"Loading ...","available":"pip","installed":false,"platforms":["win32","linux","darwin"],"versions":[],"betaAccounts":["5676293873991680"],"visible":true,"instructions":"Loading ..."},"katana":{"order":10,"title":"Conductor for Katana","packageName":"ciokatana","name":"katana","description":"Loading ...","available":"pip","installed":false,"platforms":["win32","linux"],"versions":[],"betaAccounts":["5676293873991680"],"visible":true,"instructions":"Loading ..."},"blender":{"order":3,"title":"Conductor for Blender","packageName":"cioblender","name":"blender","description":"Loading ...","available":"pip","installed":false,"platforms":["win32","linux","darwin"],"versions":[],"betaAccounts":["5676293873991680"],"visible":true,"instructions":"Loading ..."},"unreal":{"order":6,"title":"Conductor for Unreal","packageName":"ciounreal","name":"unreal","description":"Loading ...","available":"pip","installed":false,"platforms":["win32"],"versions":[],"betaAccounts":[5669544198668288,"5676293873991680"],"visible":true,"instructions":"Loading ..."}}
+{
+  "aftereffects": {
+    "order": 4,
+    "title": "Conductor for After Effects",
+    "packageName": "cioae",
+    "name": "aftereffects",
+    "description": "Loading ...",
+    "available": "github",
+    "installed": false,
+    "platforms": [
+      "win32"
+    ],
+    "versions": [],
+    "betaAccounts": [
+      "5676293873991680",
+      "5669544198668288"
+    ],
+    "visible": true,
+    "instructions": "Loading ..."
+  },
+  "core": {
+    "order": 8,
+    "title": "Conductor Core",
+    "packageName": "ciocore",
+    "name": "core",
+    "description": "Loading ...",
+    "available": "pip",
+    "installed": false,
+    "platforms": [],
+    "versions": [],
+    "betaAccounts": [
+      "5676293873991680"
+    ],
+    "visible": true,
+    "instructions": "Loading ..."
+  },
+  "maya": {
+    "order": 1,
+    "title": "Conductor for Maya",
+    "packageName": "ciomaya",
+    "name": "maya",
+    "description": "Loading ...",
+    "available": "pip",
+    "installed": false,
+    "platforms": [
+      "win32",
+      "linux",
+      "darwin"
+    ],
+    "versions": [],
+    "betaAccounts": [
+      "5676293873991680"
+    ],
+    "visible": true,
+    "instructions": "Loading ..."
+  },
+  "max": {
+    "order": 7,
+    "title": "Conductor for 3ds Max",
+    "packageName": "ciomax",
+    "name": "max",
+    "description": "Loading ...",
+    "available": "pip",
+    "installed": false,
+    "platforms": [
+      "win32"
+    ],
+    "versions": [],
+    "betaAccounts": [
+      "5676293873991680"
+    ],
+    "visible": true,
+    "instructions": "Loading ..."
+  },
+  "c4d": {
+    "order": 2,
+    "title": "Conductor for Cinema 4D",
+    "packageName": "cioc4d",
+    "name": "c4d",
+    "description": "Loading ...",
+    "available": "pip",
+    "installed": false,
+    "platforms": [
+      "win32",
+      "darwin"
+    ],
+    "versions": [],
+    "betaAccounts": [
+      "5676293873991680"
+    ],
+    "visible": true,
+    "instructions": "Loading ..."
+  },
+  "houdini": {
+    "order": 9,
+    "title": "Conductor for Houdini",
+    "packageName": "ciohoudini",
+    "name": "houdini",
+    "description": "Loading ...",
+    "available": "pip",
+    "installed": false,
+    "platforms": [
+      "win32",
+      "linux",
+      "darwin"
+    ],
+    "versions": [],
+    "betaAccounts": [
+      "5676293873991680"
+    ],
+    "visible": true,
+    "instructions": "Loading ..."
+  },
+  "nuke": {
+    "order": 5,
+    "title": "Conductor for Nuke",
+    "packageName": "cionuke",
+    "name": "nuke",
+    "description": "Loading ...",
+    "available": "pip",
+    "installed": false,
+    "platforms": [
+      "win32",
+      "linux",
+      "darwin"
+    ],
+    "versions": [],
+    "betaAccounts": [
+      "5676293873991680"
+    ],
+    "visible": true,
+    "instructions": "Loading ..."
+  },
+  "katana": {
+    "order": 10,
+    "title": "Conductor for Katana",
+    "packageName": "ciokatana",
+    "name": "katana",
+    "description": "Loading ...",
+    "available": "pip",
+    "installed": false,
+    "platforms": [
+      "win32",
+      "linux"
+    ],
+    "versions": [],
+    "betaAccounts": [
+      "5676293873991680"
+    ],
+    "visible": true,
+    "instructions": "Loading ..."
+  },
+  "blender": {
+    "order": 3,
+    "title": "Conductor for Blender",
+    "packageName": "cioblender",
+    "name": "blender",
+    "description": "Loading ...",
+    "available": "pip",
+    "installed": false,
+    "platforms": [
+      "win32",
+      "linux",
+      "darwin"
+    ],
+    "versions": [],
+    "betaAccounts": [
+      "5676293873991680"
+    ],
+    "visible": true,
+    "instructions": "Loading ..."
+  },
+  "unreal": {
+    "order": 6,
+    "title": "Conductor for Unreal",
+    "packageName": "ciounreal",
+    "name": "unreal",
+    "description": "Loading ...",
+    "available": "pip",
+    "installed": false,
+    "platforms": [
+      "win32"
+    ],
+    "versions": [],
+    "betaAccounts": [
+      5669544198668288,
+      "5676293873991680"
+    ],
+    "visible": true,
+    "instructions": "Loading ..."
+  }
+}
