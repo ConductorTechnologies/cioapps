@@ -12,7 +12,7 @@
     ],
     "versions": [],
     "betaAccounts": [
-      "5669544198668288"
+      "5630752472694784"
     ],
     "visible": true,
     "instructions": "Loading ..."
@@ -85,7 +85,8 @@
     ],
     "versions": [],
     "betaAccounts": [
-      "5669544198668288"
+      "5669544198668288",
+      "5766901712027648"
     ],
     "visible": true,
     "instructions": "Loading ..."
@@ -163,9 +164,7 @@
       "darwin"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5669544198668288"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -181,9 +180,7 @@
       "win32"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5669544198668288"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   }
