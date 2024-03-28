@@ -25,9 +25,7 @@
     "installed": false,
     "platforms": [],
     "versions": [],
-    "betaAccounts": [
-      "5669544198668288"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -45,9 +43,7 @@
       "darwin"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5669544198668288"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -63,9 +59,7 @@
       "win32"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5669544198668288"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -82,10 +76,7 @@
       "darwin"
     ],
     "versions": [],
-    "betaAccounts": [
-      "5669544198668288",
-      "5766901712027648"
-    ],
+    "betaAccounts": [],
     "visible": true,
     "instructions": "Loading ..."
   },
