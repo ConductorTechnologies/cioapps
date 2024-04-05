@@ -22,7 +22,7 @@
     "available": "pip",
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
-    "versions": [],
+    "versions": ["7.0.2", "7.0.1", "6.3.0"],
     "betaAccounts": [5669544198668288],
     "visible": true,
     "instructions": "Loading ..."
