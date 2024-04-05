@@ -9,7 +9,7 @@ If you have installed Conductor Core version 8.0.0 or higher through this interf
 
 You have three options to fix this: We strongly recommend the first option.
 
-1. Go to www.conductortech.com and download the latest version of the Conductor Companion. The comnmandline tools are then installed automatically as a Python package during the Companion installation and become available from any terminal.
+1. Go to [www.conductortech.com](https://www.conductortech.com/companion) and download the latest version of the Conductor Companion. The comnmandline tools are then installed automatically as a Python package during the Companion installation and become available from any terminal.
 
 2. Add the path to the Conductor Core package to your PYTHONPATH. To do this, you can add the following to your `~/.bashrc` or `~/.bash_profile` on Mac or Linux:
 
