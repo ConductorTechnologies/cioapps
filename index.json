@@ -59,7 +59,9 @@
       "win32"
     ],
     "versions": [],
-    "betaAccounts": [],
+    "betaAccounts": [
+      "5669544198668288"
+    ],
     "visible": true,
     "instructions": "Loading ..."
   },
