@@ -17,7 +17,7 @@
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUldhdXRLZkFRZVFOMm53MW1xU3FMN2NPcDFuQ3RCU1lsd1FuVGhRaVRIRTZwL3NxZTdBSmdFaVBIemlsYXVYbVR6aXVYR0pQb2EvRWo3akNBVUFPQ0svRjc5ZDdndlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MzUwMDI0CWZpbGU6Q29uZHVjdG9yXzAuMS4wX3g2NC1zZXR1cC5uc2lzLnppcAp0WHhNMUxXQk0zM3EwOHVoU1Z0emNmYTBSY3cwV29pYzRBMFRrckpTTEJhV0pHQzc5QWVoOFI4SjQzVW05WDR2VnRIOHF5NldDSEVvVVJZMUoyUmZBdz09Cg==",
-      "url": https://github.com/ConductorTechnologies/cioapp/releases/download/v0.1.0/Conductor_0.1.0_x64-setup.nsis.zip"
+      "url": "https://github.com/ConductorTechnologies/cioapp/releases/download/v0.1.0/Conductor_0.1.0_x64-setup.nsis.zip"
     }
   }
 }
