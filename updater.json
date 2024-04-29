@@ -1,0 +1,23 @@
+{
+  "version": "v0.1.0,
+  "notes": "Test version",
+  "pub_date": "2024-04-28T19:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUldhdXRLZkFRZVZwb0hNd2IrbFlZbDB3RloydGxCMDBESzMrVTdubkw2V1pYbXRxdkJiVnpCZktiUm00YjJ5THhLV05ZbjBPYk05OG5KNWJIRUpHNzJ1Nkx3blR2K1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MzQ5NDk5CWZpbGU6Q29uZHVjdG9yLmFwcC50YXIuZ3oKd1dwb0hDcG0zN3kyRGY3NndubWpIR3V0ZWMveFE3aTRKdVhKeDVOcjNMVUtpaWZ2QkQ5dnhHRTRaYzZtdzd1eTBKQlgzSTZPaE02R1R5RndKRkFDRFE9PQo=",
+      "url": "https://github.com/ConductorTechnologies/cioapp/releases/download/v0.1.0/Conductor_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUldhdXRLZkFRZWIydDBaS3hNcTlpdlFBSWNOM29YRVhUa1ZVUDl5RXBvMDU4eFcxb1JFODFyK3ZpYVpKZzl1RmRGNnFHVlpNMUVUTUtlWmdTWEFHTE1SZEx0dm1wQnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MzQ5NDQ2CWZpbGU6Q29uZHVjdG9yLmFwcC50YXIuZ3oKNTNVa3VXMUNKZUxoSXBkdWd4M2xOaXo5ekFtL0h6Um1lTWsyNko0Nko0WTdGTFBpWEtKdUc3VVJ1RENHQ21hNXVnWkI2UTlTOXVtcTdqZkp3MXpoQ1E9PQo=",
+      "url": "https://github.com/ConductorTechnologies/cioapp/releases/download/v0.1.0/Conductor_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUldhdXRLZkFRZWFKK04vK2xuOUhtbzdLSWUrTjZiaDU5VTFOdEhWQ0k4YjdYd28rSzREOXhDVU9EWklWbmx4a213WGQ4WUtBR3ZNa29jNCtBMWZPOGRPd1RRSWdmcXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MzQ5ODAwCWZpbGU6Y29uZHVjdG9yXzAuMS4wX2FtZDY0LkFwcEltYWdlLnRhci5negpVNm4wVGt4OVBuZnFkcXprd1h5RE5wSExML3Z5dER5ejlKc1dUeXVHeDRseXFuTEtHK3hrdkIzUU9GOHlhRHI4bld5OFIrRmZha0crcS9TRExROHJDUT09Cg==",
+      "url": "https://github.com/ConductorTechnologies/cioapp/releases/download/v0.1.0/conductor_0.1.0_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUldhdXRLZkFRZVFOMm53MW1xU3FMN2NPcDFuQ3RCU1lsd1FuVGhRaVRIRTZwL3NxZTdBSmdFaVBIemlsYXVYbVR6aXVYR0pQb2EvRWo3akNBVUFPQ0svRjc5ZDdndlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MzUwMDI0CWZpbGU6Q29uZHVjdG9yXzAuMS4wX3g2NC1zZXR1cC5uc2lzLnppcAp0WHhNMUxXQk0zM3EwOHVoU1Z0emNmYTBSY3cwV29pYzRBMFRrckpTTEJhV0pHQzc5QWVoOFI4SjQzVW05WDR2VnRIOHF5NldDSEVvVVJZMUoyUmZBdz09Cg==",
+      "url": https://github.com/ConductorTechnologies/cioapp/releases/download/v0.1.0/Conductor_0.1.0_x64-setup.nsis.zip"
+    }
+  }
+}
