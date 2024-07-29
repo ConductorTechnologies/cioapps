@@ -23,7 +23,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": ["7.0.2", "7.0.1", "6.3.0"],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [5669544198668288, 5092137129607168],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -51,7 +51,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [5669544198668288, 5092137129607168],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -78,7 +78,7 @@
     "installed": false,
     "platforms": ["win32", "darwin"],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [5669544198668288, 5092137129607168],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -92,7 +92,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [5669544198668288, 5092137129607168],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -134,7 +134,7 @@
     "installed": false,
     "platforms": ["win32", "linux", "darwin"],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [5669544198668288, 5092137129607168],
     "visible": true,
     "instructions": "Loading ..."
   },   
