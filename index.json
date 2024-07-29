@@ -1,3 +1,4 @@
+
 {
   "aftereffects": {
     "order": 4,
@@ -7,9 +8,14 @@
     "description": "Loading ...",
     "available": "github",
     "installed": false,
-    "platforms": ["win32"],
+    "platforms": [
+      "win32"
+    ],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [
+      "5669544198668288",
+      "5767615549800448"
+    ],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -23,7 +29,10 @@
     "installed": false,
     "platforms": [],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [
+      "5669544198668288",
+      "5767615549800448"
+    ],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -35,14 +44,22 @@
     "description": "Loading ...",
     "available": "pip",
     "installed": false,
-    "platforms": ["win32", "linux", "darwin"],
+    "platforms": [
+      "win32",
+      "linux",
+      "darwin"
+    ],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [
+      "5669544198668288",
+      "5100030981308416",
+      "5767615549800448"
+    ],
     "visible": true,
     "instructions": "Loading ...",
     "host_compatibility": [
-      "<1.0.0": ["2020","2022","2023","2024"],
-      ">=1.0.0,<2.0.0": ["2025","2026"]
+      {"<1.0.0": ["2020","2022","2023","2024"]},
+      {">=1.0.0,<2.0.0": ["2025","2026"]}
     ]
   },
   "max": {
@@ -53,8 +70,15 @@
     "description": "Loading ...",
     "available": "pip",
     "installed": false,
-    "platforms": ["win32"],
+    "platforms": [
+      "win32"
+    ],
     "versions": [],
+    "betaAccounts": [
+      "5669544198668288",
+      "5767615549800448",
+      "5171576360927232"
+    ],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -66,9 +90,15 @@
     "description": "Loading ...",
     "available": "pip",
     "installed": false,
-    "platforms": ["win32", "darwin"],
+    "platforms": [
+      "win32",
+      "darwin"
+    ],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [
+      "5669544198668288",
+      "5767615549800448"
+    ],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -80,9 +110,17 @@
     "description": "Loading ...",
     "available": "pip",
     "installed": false,
-    "platforms": ["win32", "linux", "darwin"],
+    "platforms": [
+      "win32",
+      "linux",
+      "darwin"
+    ],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [
+      "5669544198668288",
+      "5767615549800448",
+      "5082151758462976"
+    ],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -94,9 +132,18 @@
     "description": "Loading ...",
     "available": "pip",
     "installed": false,
-    "platforms": ["win32", "linux", "darwin"],
+    "platforms": [
+      "win32",
+      "linux",
+      "darwin"
+    ],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [
+      "5669544198668288",
+      "5100030981308416",
+      "5767615549800448",
+      "5207267585294336"
+    ],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -108,9 +155,16 @@
     "description": "Loading ...",
     "available": "pip",
     "installed": false,
-    "platforms": ["win32", "linux"],
+    "platforms": [
+      "win32",
+      "linux"
+    ],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [
+      "5669544198668288",
+      "5207267585294336",
+      "5767615549800448"
+    ],
     "visible": true,
     "instructions": "Loading ..."
   },
@@ -122,13 +176,21 @@
     "description": "Loading ...",
     "available": "pip",
     "installed": false,
-    "platforms": ["win32", "linux", "darwin"],
+    "platforms": [
+      "win32",
+      "linux",
+      "darwin"
+    ],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [
+      "5669544198668288",
+      "5767615549800448",
+      "5205856630865920"
+    ],
     "visible": true,
     "instructions": "Loading ..."
   },
-    "unreal": {
+  "unreal": {
     "order": 6,
     "title": "Conductor for Unreal",
     "packageName": "ciounreal",
@@ -136,9 +198,15 @@
     "description": "Loading ...",
     "available": "pip",
     "installed": false,
-    "platforms": ["win32"],
+    "platforms": [
+      "win32"
+    ],
     "versions": [],
-    "betaAccounts": [5669544198668288],
+    "betaAccounts": [
+      "5669544198668288",
+      "5201196033507328",
+      "5767615549800448"
+    ],
     "visible": true,
     "instructions": "Loading ..."
   }
