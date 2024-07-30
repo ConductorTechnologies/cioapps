@@ -16,7 +16,10 @@
       "5767615549800448"
     ],
     "visible": true,
-    "instructions": "Loading ..."
+    "instructions": "Loading ...",
+     "compatibility": [
+      {"range": "*", "info": "AfterEffects 23 and above"}
+    ]
   },
   "core": {
     "order": 8,
@@ -58,7 +61,7 @@
     "instructions": "Loading ...",
     "compatibility": [
       {"range": "<0.10.0", "info": "Maya 2020 to Maya 2024"},
-      {"range":">=0.10.0,<2.0.0", "info":  "Maya 2025 and above"}
+      {"range":">=0.10.0 <2.0.0", "info":  "Maya 2025 and above"}
     ]
   },
   "max": {
@@ -79,7 +82,10 @@
       "5171576360927232"
     ],
     "visible": true,
-    "instructions": "Loading ..."
+    "instructions": "Loading ...",
+     "compatibility": [
+      {"range": "*", "info": "3dsMax with Python 3 only"}
+    ]
   },
   "c4d": {
     "order": 2,
@@ -99,7 +105,10 @@
       "5767615549800448"
     ],
     "visible": true,
-    "instructions": "Loading ..."
+    "instructions": "Loading ...",
+     "compatibility": [
+      {"range": "*", "info": "Cinema4d R23 to S2025"}
+    ]
   },
   "houdini": {
     "order": 9,
@@ -121,7 +130,10 @@
       "5082151758462976"
     ],
     "visible": true,
-    "instructions": "Loading ..."
+    "instructions": "Loading ...",
+     "compatibility": [
+      {"range": "*", "info": "Houdini 19 and above"}
+    ]
   },
   "nuke": {
     "order": 5,
@@ -144,7 +156,10 @@
       "5207267585294336"
     ],
     "visible": true,
-    "instructions": "Loading ..."
+    "instructions": "Loading ...",
+     "compatibility": [
+      {"range": "*", "info": "Nuke 13 and above"}
+    ]
   },
   "katana": {
     "order": 10,
@@ -165,7 +180,10 @@
       "5767615549800448"
     ],
     "visible": true,
-    "instructions": "Loading ..."
+    "instructions": "Loading ...",
+     "compatibility": [
+      {"range": "*", "info": "Katana 6 and above"}
+    ]
   },
   "blender": {
     "order": 3,
@@ -187,7 +205,10 @@
       "5205856630865920"
     ],
     "visible": true,
-    "instructions": "Loading ..."
+    "instructions": "Loading ...",
+     "compatibility": [
+      {"range": "*", "info": "Blender 4.1 and above"}
+    ]
   },
   "unreal": {
     "order": 6,
