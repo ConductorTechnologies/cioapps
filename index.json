@@ -60,8 +60,8 @@
     "visible": true,
     "instructions": "Loading ...",
     "compatibility": [
-      {"range": "<0.10.0", "info": "Maya 2020 to Maya 2024"},
-      {"range":">=0.10.0 <2.0.0", "info":  "Maya 2025 and above"}
+      {"range": "<1.0.0", "info": "Maya 2020 to Maya 2024"},
+      {"range":">=1.0.0 <2.0.0", "info":  "Maya 2025 and above"}
     ]
   },
   "max": {
