@@ -17,8 +17,11 @@
     ],
     "visible": true,
     "instructions": "Loading ...",
-     "compatibility": [
-      {"range": "*", "info": "AfterEffects 23 and above"}
+    "compatibility": [
+      {
+        "range": "*",
+        "info": "AfterEffects 23 and above"
+      }
     ]
   },
   "core": {
@@ -33,7 +36,8 @@
     "versions": [],
     "betaAccounts": [
       "5669544198668288",
-      "5767615549800448"
+      "5767615549800448",
+      "5171576360927232"
     ],
     "visible": true,
     "instructions": "Loading ..."
@@ -55,13 +59,20 @@
     "betaAccounts": [
       "5669544198668288",
       "5100030981308416",
-      "5767615549800448"
+      "5767615549800448",
+      "5171576360927232"
     ],
     "visible": true,
     "instructions": "Loading ...",
     "compatibility": [
-      {"range": "<0.99", "info": "Maya 2020 to Maya 2024"},
-      {"range":">=0.99 <2.0.0", "info":  "Maya 2025 and above"}
+      {
+        "range": "<0.99",
+        "info": "Maya 2020 to Maya 2024"
+      },
+      {
+        "range": ">=0.99 <2.0.0",
+        "info": "Maya 2025 and above"
+      }
     ]
   },
   "max": {
@@ -83,8 +94,11 @@
     ],
     "visible": true,
     "instructions": "Loading ...",
-     "compatibility": [
-      {"range": "*", "info": "3dsMax with Python 3 only"}
+    "compatibility": [
+      {
+        "range": "*",
+        "info": "3dsMax with Python 3 only"
+      }
     ]
   },
   "c4d": {
@@ -106,8 +120,11 @@
     ],
     "visible": true,
     "instructions": "Loading ...",
-     "compatibility": [
-      {"range": "*", "info": "Cinema4d R23 to S2025"}
+    "compatibility": [
+      {
+        "range": "*",
+        "info": "Cinema4d R23 to S2025"
+      }
     ]
   },
   "houdini": {
@@ -131,8 +148,11 @@
     ],
     "visible": true,
     "instructions": "Loading ...",
-     "compatibility": [
-      {"range": "*", "info": "Houdini 19 and above"}
+    "compatibility": [
+      {
+        "range": "*",
+        "info": "Houdini 19 and above"
+      }
     ]
   },
   "nuke": {
@@ -157,8 +177,11 @@
     ],
     "visible": true,
     "instructions": "Loading ...",
-     "compatibility": [
-      {"range": "*", "info": "Nuke 13 and above"}
+    "compatibility": [
+      {
+        "range": "*",
+        "info": "Nuke 13 and above"
+      }
     ]
   },
   "katana": {
@@ -181,8 +204,11 @@
     ],
     "visible": true,
     "instructions": "Loading ...",
-     "compatibility": [
-      {"range": "*", "info": "Katana 6 and above"}
+    "compatibility": [
+      {
+        "range": "*",
+        "info": "Katana 6 and above"
+      }
     ]
   },
   "blender": {
@@ -206,8 +232,11 @@
     ],
     "visible": true,
     "instructions": "Loading ...",
-     "compatibility": [
-      {"range": "*", "info": "Blender 4.1 and above"}
+    "compatibility": [
+      {
+        "range": "*",
+        "info": "Blender 4.1 and above"
+      }
     ]
   },
   "unreal": {
