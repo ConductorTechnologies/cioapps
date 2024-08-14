@@ -107,7 +107,7 @@
     "visible": true,
     "instructions": "Loading ...",
      "compatibility": [
-      {"range": "*", "info": "Cinema4d R23 to S2025"}
+      {"range": "*", "info": "Cinema4d 2023 and above"}
     ]
   },
   "houdini": {
