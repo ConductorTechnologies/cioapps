@@ -268,6 +268,12 @@
       "5699132602974208"
     ],
     "visible": true,
-    "instructions": "Loading ..."
+    "instructions": "Loading ...",
+    "compatibility": [
+      {
+        "range": "*",
+        "info": "Unreal 5.2 and above"
+      }
+    ]
   }
 }
