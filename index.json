@@ -249,6 +249,7 @@
     ]
   },
   "unreal": {
+    "pypi_index_url": "https://test.pypi.org",
     "order": 6,
     "title": "Conductor for Unreal",
     "packageName": "ciounreal",
