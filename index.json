@@ -251,33 +251,5 @@
         "info": "Blender 4.1 and above"
       }
     ]
-  },
-  "unreal": {
-    "pypi_index_url": "https://test.pypi.org",
-    "order": 6,
-    "title": "Conductor for Unreal",
-    "packageName": "ciounreal",
-    "name": "unreal",
-    "description": "Loading ...",
-    "available": "pip",
-    "installed": false,
-    "platforms": [
-      "win32"
-    ],
-    "versions": [],
-    "betaAccounts": [
-      "5669544198668288",
-      "5201196033507328",
-      "5767615549800448",
-      "5699132602974208"
-    ],
-    "visible": true,
-    "instructions": "Loading ...",
-    "compatibility": [
-      {
-        "range": "*",
-        "info": "Unreal 5.2 and above"
-      }
-    ]
   }
 }
