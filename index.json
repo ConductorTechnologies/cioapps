@@ -217,7 +217,7 @@
     "packageName": "ciounreal",
     "name": "unreal",
     "description": "Loading ...",
-    "available": "pip",
+    "available": "post",
     "installed": false,
     "platforms": [
       "win32"
