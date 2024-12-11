@@ -211,14 +211,14 @@
     ]
   },
  "unreal": {
-    "pypi_index_url": "https://test.pypi.org",
+    "pypiIndexUrl": "https://test.pypi.org",
     "order": 6,
     "title": "Conductor for Unreal",
     "packageName": "ciounreal",
     "name": "unreal",
     "description": "Loading ...",
     "available": "pip",
-    "post_install_only": true,
+    "postOnly": true,
     "installed": false,
     "platforms": [
       "win32"
