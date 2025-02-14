@@ -279,7 +279,7 @@
     "compatibility": [
       {
         "range": "*",
-        "info": "Unreal 5.2 and above"
+        "info": "Unreal 5.2 to 5.4"
       }
     ]
   }
