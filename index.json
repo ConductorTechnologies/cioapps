@@ -191,7 +191,11 @@
     "instructions": "Loading ...",
     "compatibility": [
       {
-        "range": "*",
+        "range": "<0.8.0",
+        "info": "Nuke 13 to Nuke 15"
+      },
+      {
+        "range": ">=0.8.0",
         "info": "Nuke 13 and above"
       }
     ]
