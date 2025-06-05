@@ -1,1 +1,1 @@
-Unreal Engine plugin to manage MovieRenderPipeline submissions to Conductor's cloud service. Supports Unreal 5.2 and above. Perforce integration is still in development. This plugin is in **Alpha** release.
+Unreal Engine plugin to manage MovieRenderPipeline submissions to Conductor's cloud service. Supports Unreal 5.2 and above. Perforce integration is still in development. Currently available as an **Alpha** release.
